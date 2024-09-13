@@ -73,6 +73,5 @@ https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision.in" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="General",Vision (1080p)  
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Music",Stingray Pop Adult  
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
